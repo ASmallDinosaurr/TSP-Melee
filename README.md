@@ -5,10 +5,10 @@ This is a mod for ArmA that adds the ability to use melee. It works with weapons
 This mod functions by defining a new mode that weapons can be used in called the melee mode. By default, double tapping F will put your player into melee mode and doing it again will exit it. Melee mode can be toggled for all rifles/pistols as well as various melee weapons. With no weapon equipped, going into melee mode will bring up your fists. You cannot go into melee mode with most rocket launchers. 
 
 Once in melee mode your mouse controls what actions you can do:  
-**Left Click** - Main attack  
-**Right Click** - Secondary attack  
-**Pressing Scroll Wheel** - Block  
-**Rolling Scroll Wheel** - Kick  
+- **Left Click** - Main attack  
+- **Right Click** - Secondary attack  
+- **Pressing Scroll Wheel** - Block  
+- **Rolling Scroll Wheel** - Kick  
 
 ## Requirements/Compatibility
 - [CBA_A3](https://github.com/CBATeam/CBA_A3)
@@ -17,14 +17,14 @@ Once in melee mode your mouse controls what actions you can do:
 
 ## Configuration
 ### CBA Settings:
-**Enable Melee** - Enables/Disables melee mode activation.  
-**Enable Knife Moveset** - Enables custom movesets for knives where the player holds it at his side  
-**Knife Moveset Polling Rate** - How often the code checks for animation changes (seconds). Faster = smoother but less perfomant.  
+- **Enable Melee** - Enables/Disables melee mode activation.  
+- **Enable Knife Moveset** - Enables custom movesets for knives where the player holds it at his side  
+- **Knife Moveset Polling Rate** - How often the code checks for animation changes (seconds). Faster = smoother but less perfomant.  
 
 ### CBA Controls:
-**Melee (Double Tap)[Unnassigned]** - When double tapped and held down you will go into melee mode, releasing the key exits melee mode.  
-**Melee (Toggle)[Unnassigned]** - When pressed you will go into melee mode, doing it again exits melee mode.  
-**Melee (Double Tap, Toggle)[F]** - When double tapped you will go into melee mode, doing it again exits melee mode.  
+- **Melee (Double Tap)[Unnassigned]** - When double tapped and held down you will go into melee mode, releasing the key exits melee mode.  
+- **Melee (Toggle)[Unnassigned]** - When pressed you will go into melee mode, doing it again exits melee mode.  
+- **Melee (Double Tap, Toggle)[F]** - When double tapped you will go into melee mode, doing it again exits melee mode.  
 
 ## How to Compile
 The folders can be packed into .pbo files using ArmA3Tools' Addon Builder.
