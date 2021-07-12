@@ -12,7 +12,7 @@ Once in melee mode your mouse controls what actions you can do:
 
 ## Requirements/Compatibility
 - [CBA_A3](https://github.com/CBATeam/CBA_A3)
-- [ACE3](https://github.com/acemod/ACE3)(Optional)
+- [ACE3](https://github.com/acemod/ACE3) (Optional)
 - TSP Breach (Optional, enables door kicking)
 
 ## Configuration
