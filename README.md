@@ -1,5 +1,5 @@
 # TSP Melee
-This is a mod for ArmA that adds the ability to use melee. It works with weapons like rifles and pistols as well as with your fists. Furthermore, the are also various other melee weapons.
+This is a mod for ArmA that adds the ability to use melee. It works with weapons like rifles and pistols as well as with your fists. Furthermore, there are also various  melee weapons included such as knives and axes.
 
 ## Usage
 This mod functions by defining a new mode that weapons can be used in called the melee mode. By default, double tapping F will put your player into melee mode and doing it again will exit it. Melee mode can be toggled for all rifles/pistols as well as various melee weapons. With no weapon equipped, going into melee mode will bring up your fists. You cannot go into melee mode with most rocket launchers. 
