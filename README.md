@@ -6,8 +6,11 @@ This mod functions by defining a new mode that weapons can be used in called the
 
 Once in melee mode your mouse controls what actions you can do:
 **Left Click** - Main attack
+
 **Right Click** - Secondary attack
+
 **Pressing Scroll Wheel** - Block
+
 **Rolling Scroll Wheel** - Kick
 
 ## Requirements/Compatibility
