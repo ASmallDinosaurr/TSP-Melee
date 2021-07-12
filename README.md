@@ -20,12 +20,12 @@ Once in melee mode your mouse controls what actions you can do:
 - TSP Breach (Optional, enables door kicking)
 
 ## Configuration
-###CBA Settings:
+### CBA Settings:
 **Enable Melee** - Enables/Disables melee mode activation.
 **Enable Knife Moveset** - Enables custom movesets for knives where the player holds it at his side
 **Knife Moveset Polling Rate** - How often the code checks for animation changes (seconds). Faster = smoother but less perfomant.
 
-###CBA Controls:
+### CBA Controls:
 **Melee (Double Tap)[Unnassigned]** - When double tapped and held down you will go into melee mode, releasing the key exits melee mode.
 **Melee (Toggle)[Unnassigned]** - When pressed you will go into melee mode, doing it again exits melee mode.
 **Melee (Double Tap, Toggle)[F]** - When double tapped you will go into melee mode, doing it again exits melee mode.
